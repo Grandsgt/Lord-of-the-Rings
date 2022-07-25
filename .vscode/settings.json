@@ -113,7 +113,8 @@
    * Format a file on save.
    * Defaults to true.
    */
-  "editor.formatOnSave": false
+  "editor.formatOnSave": false,
+  "liveServer.settings.port": 5502
   /**
    * Controls whether the editor should automatically format the line after typing.
    * Defaults to false.
